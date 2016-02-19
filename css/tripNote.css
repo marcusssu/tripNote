@@ -1,0 +1,86 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: #edeeef;
+}
+.indexbody{
+  background-color:white;
+}
+.box{
+  background-color: white;
+  padding:20px;
+  margin-top:20px;
+  border:1px solid #ddd;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+}
+.jumbotron{
+	background-image: url(../img/home.jpg);
+	background-size: cover;
+	min-height: 550px;
+  padding-right:150px;
+  padding-left:150px;
+  
+
+}
+
+.jumbotron h1{
+    color:white;
+    border-bottom: 1px solid #fff;
+    font-family: myFirstFont;
+    font-size: 700%;
+  
+  
+
+    
+}
+
+.jumbotron p{
+    color:white;
+}
+
+.jumbotron div {
+    
+    padding-top: 200px;
+   
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(../fonts/SouthernAire_Personal_Use_Only.ttf);
+}
+
+.btn-signUp{
+  background:none;
+  border-color:white;
+
+}
+
+textarea{
+  margin-bottom: 15px;
+}
+
+option{
+  background-color: white;
+}
+
+#searchbtn{
+  margin-top:0px;
+}
+
+#followbtn{
+  margin-top:0px;
+}
+
+.leftpadding{
+  padding-left:0px;
+}
+.rightpadding{
+  padding-right:0px;
+}
+
+#editform{
+  padding-left:0px;
+  position: relative;
+}
+

@@ -1,0 +1,94 @@
+
+
+.form-signin {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 20px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="username"],input[type="email"],input[type="password"] {
+  margin-bottom: 15px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.radio-inline{
+
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.submitbutton{
+  margin-top: 15px;
+  
+}
+.error{
+  color: rgb(180 ,69,69);
+}
+/*.form-signin input[type="password"] {
+  margin-bottom: 15px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+*/
+h2{
+  margin-top: 0px;
+}
+h3{
+  margin-top: 0px;
+}
+
+#bothr{
+  border-top: 1px solid #ddd;
+}
+
+.info{
+  color:#a2a2a2;
+  font-size:90%;
+}
+
+.marginleft{
+  margin-left: 0px;
+}
+
+.marginright{
+  margin-right:0px;
+}
+
+.margintop{
+  margin-top: 0px;
+}
+
+#buttonlabel{
+  color:white;
+}
+
+.marginbot{
+  margin-bottom: 0px;
+}
+
+.inline{
+  display: inline;
+}
+
+.screenname {
+    font-weight: bold;
+    
+}
